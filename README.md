@@ -15,17 +15,11 @@
 ## 🛠 Tech Stack  
 - **Languages:** Python, Java, HTML, CSS, SQL  
 - **Frameworks/Libraries:** Flask, TensorFlow, PyTorch  
-- **Tools:** Git/GitHub, SQLite, MLflow, W&B  
+- **Tools:** Git/GitHub,Cursor, SQLite, MLflow, W&B  
 - **Interests:** AI, Cybersecurity, Blockchain, MLOps  
 
 ---
 
-## 📊 GitHub Stats  
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshit109)  
