@@ -55,7 +55,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshit109/)  
 
 ### 🏆 LeetCode Streaks  
-<img src="badges/100days.gif" width="120"/> 
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/badges/100days.gif" width="120"/>
+
 <img src="badges/200days.gif" width="120"/> 
 <img src="badges/300days.gif" width="120"/>
 
