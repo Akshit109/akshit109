@@ -55,9 +55,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshit109/)  
 
 ### 🏆 LeetCode Streaks  
-![300 Days Streak](https://img.shields.io/badge/LeetCode%20Streak-300%20days-orange?style=for-the-badge&logo=leetcode&logoColor=black)  
-![200 Days Streak](https://img.shields.io/badge/LeetCode%20Streak-200%20days-yellow?style=for-the-badge&logo=leetcode&logoColor=black)  
-![100 Days Streak](https://img.shields.io/badge/LeetCode%20Streak-100%20days-green?style=for-the-badge&logo=leetcode&logoColor=black)  
+<img src="badges/100days.gif" width="120"/> 
+<img src="badges/200days.gif" width="120"/> 
+<img src="badges/300days.gif" width="120"/>
 
 ---
 
