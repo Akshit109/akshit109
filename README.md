@@ -13,14 +13,15 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Akshit109/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Streak" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/Akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Streak" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/Akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Streak" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/u/Akshit109/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-300.gif" alt="300 Days Streak" height="200" width="200" />
-  </a>
+  
 </p>
 
 
