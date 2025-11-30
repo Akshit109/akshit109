@@ -32,9 +32,9 @@
 
 ---
 
-## 🟩 GitHub Contribution Graph  
+### 🟩 LeetCode Contribution Graph  
 <p align="center">
-  <img src="https://ghchart.rshah.org/akshit109" alt="GitHub Contribution Chart" />
+  <img src="https://leetcard.jacoblin.cool/Akshit109?theme=light&ext=heatmap" />
 </p>
 
 ---
