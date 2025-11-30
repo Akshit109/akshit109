@@ -34,7 +34,7 @@
 
 ## 🟩 GitHub Contribution Graph  
 <p align="center">
-  <img src="https://ghchart.rshah.org/ akshit109" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/akshit109" alt="GitHub Contribution Chart" />
 </p>
 
 ---
