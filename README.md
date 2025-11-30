@@ -16,7 +16,7 @@
 <p align="center">
   <!-- 365 Days -->
   <a href="https://leetcode.com/u/akshit109/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" alt="365 Days Streak" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-365.gif" alt="365 Days Streak" height="200" width="200" />
   </a>
 
   <!-- 200 Days -->
