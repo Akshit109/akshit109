@@ -15,28 +15,33 @@
 
 <p align="center">
   <!-- 365 Days -->
-  <a href="https://leetcode.com/u/Akshit109/" target="_blank">
+  <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" alt="365 Days Streak" height="200" width="200" />
   </a>
 
   <!-- 200 Days -->
-  <a href="https://leetcode.com/u/Akshit109/" target="_blank">
+  <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Streak" height="200" width="200" />
   </a>
 
   <!-- 100 Days -->
-  <a href="https://leetcode.com/u/Akshit109/" target="_blank">
+  <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Streak" height="200" width="200" />
+  </a>
+
+  <!-- 50 Days -->
+  <a href="https://leetcode.com/u/akshit109/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Streak" height="200" width="200" />
   </a>
 </p>
 
 ---
 
 ### 🟩 LeetCode Contribution Graph  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akshit109?theme=light&ext=heatmap" />
-</p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akshit109?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
 ---
 
 ## 🛠 Tech Stack  
