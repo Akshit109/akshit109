@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Akshit Jaiswal  
-
 🎓 B.Tech Student | 💻 Developer | 🔐 Cybersecurity & AI/ML Enthusiast  
-
 ---
 # 💫 About Me:
 A passionate developer exploring the intersection of AI, Cybersecurity, and Web Development. I enjoy building real-world solutions that solve meaningful problems and improve user experiences.<br><br>💡 Currently, I’m working on projects like:<br><br>🔐 AI-based Cyber Fraud Detection System for multi-bank transaction monitoring<br>🎭 Deepfake Video Detection Web App using MesoNet<br>📊 YouTube Sentiment Analysis Platform (YoutiFeel) with real-time insights<br>📍 Indoor Navigation System for smart campus guidance
-
 ---
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akshit_109) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalakshit4@gmail.com) 
 # 💻 Tech Stack:
@@ -45,21 +41,4 @@ A passionate developer exploring the intersection of AI, Cybersecurity, and Web 
   <img src="https://leetcard.jacoblin.cool/akshit109?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 ---
-
-## 🛠 Tech Stack  
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshit109&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshit109&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit109&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=akshit109&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-
 ⭐ _"Code. Secure. Innovate. Repeat."_  
