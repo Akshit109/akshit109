@@ -2,7 +2,7 @@
 🎓 B.Tech Student | 💻 Developer | 🔐 Cybersecurity & AI/ML Enthusiast  
 ---
 # 💫 About Me:
-A passionate developer exploring the intersection of AI, Cybersecurity, and Web Development. I enjoy building real-world solutions that solve meaningful problems and improve user experiences.<br><br>💡 Currently, I’m working on projects like:<br><br>🔐 AI-based Cyber Fraud Detection System for multi-bank transaction monitoring<br>🎭 Deepfake Video Detection Web App using MesoNet<br>📊 YouTube Sentiment Analysis Platform (YoutiFeel) with real-time insights<br>📍 Indoor Navigation System for smart campus guidance
+A passionate developer exploring the intersection of AI, Cybersecurity, and Web Development. I enjoy building real-world solutions that solve meaningful problems and improve user experiences.<br><br>
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akshit_109) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalakshit4@gmail.com) 
@@ -12,6 +12,10 @@ A passionate developer exploring the intersection of AI, Cybersecurity, and Web 
 <h2 align="center">🏆 LeetCode Streak Badges 🏆</h2>  
 
 <p align="center">
+  <a href="https://leetcode.com/u/akshit109/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="50 Days Streak" height="200" width="200" />
+  </a>
+</p>
   <!-- 365 Days -->
   <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Streak" height="200" width="200" />
@@ -27,11 +31,7 @@ A passionate developer exploring the intersection of AI, Cybersecurity, and Web 
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Streak" height="200" width="200" />
   </a>
 
-  <!-- 50 Days -->
-  <a href="https://leetcode.com/u/akshit109/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Streak" height="200" width="200" />
-  </a>
-</p>
+
 
 ---
 
