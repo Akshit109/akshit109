@@ -11,11 +11,11 @@ A passionate developer exploring the intersection of AI, Cybersecurity, and Web 
 
 <h2 align="center">🏆 LeetCode Streak Badges 🏆</h2>  
 
-<p align="center">
+
   <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="50 Days Streak" height="200" width="200" />
   </a>
-</p>
+
   <!-- 365 Days -->
   <a href="https://leetcode.com/u/akshit109/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Streak" height="200" width="200" />
